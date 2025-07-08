@@ -1,0 +1,8 @@
+*.csv
+
+# Environment variables
+.venv
+
+# IDE files
+.vscode/
+.idea/

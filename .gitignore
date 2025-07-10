@@ -2,6 +2,7 @@
 
 # Environment variables
 .venv
+.hf.env
 
 # IDE files
 .vscode/
